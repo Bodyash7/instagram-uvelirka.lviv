@@ -1,0 +1,44 @@
+/**.all {
+    background: #e5ce22;
+    color: white;
+    border-radius: 1em;
+    padding: 5em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+}
+
+.logo {
+    margin-bottom: 50px;
+} */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: url(https://www.dobovo.com/blog/wp-content/uploads/2018/10/opera-theater.jpg) no-repeat;
+	background-size: cover;
+}
+
+.login-box {
+	width: 280px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: gray;
+
+	border-left: 6px solid gray;
+	height: 300px;
+	padding-left: 50px;
+}
+
+.login-box h1 {
+	float: left;
+	font-size: 40px;
+	border-bottom: 6px solid #F0E68C;
+	margin-bottom: 50px;
+	padding: 10px 0;
+}
